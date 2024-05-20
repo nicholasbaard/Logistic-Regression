@@ -1,6 +1,8 @@
 # Logistic-Regression
 Implementation of Logistic Regression from first principles in python. For binary classification.
 
+Note: Softmax regression for multi-class classification still needs to be implemented!
+
 The implementation includes feature improvement through minmax scaling/standardization and L2 regularization in the gradient descent function.
 
 ## Features
